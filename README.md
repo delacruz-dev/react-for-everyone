@@ -1,4 +1,6 @@
-# What is React?
+# What is React.JS?
+
+React.JS is a JavaScript library which allows you to express any user interface as a declarative function of some parameters, modelled as a `props` object and an internal `state`.
 
 ![React allows you to express a user interface as a declarative function of props and state](/assets/react-declarative-function.png)
 
