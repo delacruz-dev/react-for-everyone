@@ -132,3 +132,6 @@ You can see the output of the transpiled version of the above snippet in [Babel 
 
 ## Creating a stateful component
 [Demo](https://stackblitz.com/edit/react-stateful)
+
+## Lifting state up
+[Demo](https://stackblitz.com/edit/tres-en-raya)
