@@ -129,3 +129,6 @@ You can see the output of the transpiled version of the above snippet in [Babel 
     ReactDOM.render(<element className="container">Props Example</element>, root);
 </script>
 ```
+
+## Creating a stateful component
+[Demo](https://stackblitz.com/edit/react-stateful)
