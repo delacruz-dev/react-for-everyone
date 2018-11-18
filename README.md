@@ -135,3 +135,8 @@ You can see the output of the transpiled version of the above snippet in [Babel 
 
 ## Lifting state up
 [Demo](https://stackblitz.com/edit/tres-en-raya)
+
+## Further reading and utilities
+- [React official documentation](https://reactjs.org/)
+- [Stackblitz (online editor)](https://stackblitz.com/)
+- [create-react-app](https://github.com/facebook/create-react-app)
