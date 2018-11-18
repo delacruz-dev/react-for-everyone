@@ -1,6 +1,6 @@
 # What is React?
 
-![React allows you to express a user interface as a declarative function of props and state]('./assets/react-declarative-function.png)
+![React allows you to express a user interface as a declarative function of props and state](/assets/react-declarative-function.png)
 
 ## Create an HTML element using vanilla JavaScript
 
